@@ -2,7 +2,7 @@
 ## File Usage Guide
  * base_final.ipynb: Preprocesses Arivale snapshots, generates BMF subcohort CSVs, and calculates descriptive statistics.
  * metabolomicseGFRanalysis_final.ipynb: Preprocesses Arivale snapshots, performs OLS regressions on BMF-associated metabolites.
- * [R file names].Rmd/.R: Imports BMF subcohort CSVs, conducts multi-omic analyses, outputs regressions and plots.
+ * [R file names].Rmd/.R/.Rds: Imports BMF subcohort CSVs or saved R workspaces, conducts multi-omic analyses, outputs regressions and plots.
  * [Image file names]: Visualizations generated from R analyses.
 ### Note: All files are viewable in their respective software (Jupyter Notebook/RStudio).
 
