@@ -37,7 +37,7 @@ Ensure that the required Python packages (pandas, numpy, etc.) and dependencies 
 Load the `arivale_snapshot` path within the notebook.
 ### 3. Run the notebook: 
 Execute the notebook cells sequentially or in desired chunks to complete the data import, preprocessing, cohort identification, and descriptive statistics calculation.
-### 5.  Review outputs: 
+### 4.  Review outputs: 
 Examine the generated CSV files and descriptive statistics summary.
 
 # metabolomics_eGFRanalysis_final.ipynb
