@@ -22,7 +22,7 @@ Raw data from Arivale snapshots, containing relevant health and lifestyle inform
 CSV files containing data for each identified BMF cohort.
 
 ## Parameters:
-### - `gender,age,BMI_CALC,vendor_dashboard,eGFR,CRP,A1C,LDL,PC[1-6],taxa_[taxonomic_classification],[metabolite_IDs],[clinical_chemistries],etc.`: 
+### - `gender,age,BMI_CALC,vendor_dashboard,eGFR,CRP,A1C,LDL,PC[1-3],taxa_[taxonomic_classification],[metabolite_IDs],[clinical_chemistries],etc.`: 
 List of parameters spanning the multi-omic data analyses needs and their BMF subcohorts (e.g., metabolomics).
 
 ## Usage & Dependencies:
